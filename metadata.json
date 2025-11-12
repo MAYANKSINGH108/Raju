@@ -1,0 +1,5 @@
+{
+  "name": "Appointment Scheduler",
+  "description": "A modern and intuitive application for scheduling, managing, and viewing appointments with a calendar interface. Users can create, modify, and cancel appointments, and receive AI-generated confirmations.",
+  "requestFramePermissions": []
+}
